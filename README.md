@@ -1,6 +1,6 @@
 # 🚀 Delta Executor - Ultimate Roblox Script Executor
 
-[![Delta](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqE-2pNhAHA3fDm6gOd95DQNca330fQhLZeQ&s)](https://urlr.me/Tzp7YZ)
+[![Delta](https://avatars.mds.yandex.net/get-vthumb/397933/2d6ad519764c338a84fec5ad5219a316/800x450)](https://urlr.me/Tzp7YZ)
 
 ## [*Download Delta Executor*](https://urlr.me/Tzp7YZ)
 ## Overview
